@@ -1,4 +1,4 @@
-<form action="" method="post" name="LoginSuccessfullPage_Form">
+<form action="" method="post" name="LoginSuccessPage_Form">
   <table width="400" border="0" align="center" cellpadding="5" cellspacing="1" class="Table">
     <?php if(isset($msg)){?>
     <tr>
